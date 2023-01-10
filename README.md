@@ -1,12 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Guilherme</h1>
+<h3 align="center"> Hi there 👋, I'm Guilherme</h3>
 <div align="center">
 	<a href="https://github.com/gqueirozc">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gqueirozc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gqueirozc&layout=compact&langs_count=7&theme=dark"/>
 	</div>
- 
-## 
-  
 
 <div>
 <h3 align="left">Languages and Tools:</h3>
