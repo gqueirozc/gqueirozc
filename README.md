@@ -56,7 +56,7 @@
   
 ##
   
-  - 📄 Know about my experiences: <a href="https://gqueirozc.github.io" align="center"> <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"/> 
+ <!-- - 📄 Know about my experiences: <a href="https://gqueirozc.github.io" align="center"> <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"/> -->
 <a href="https://www.linkedin.com/in/guilherme-de-queiroz-calixto/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 <a href="mailto:guilherme.calixto100@gmail.com">
